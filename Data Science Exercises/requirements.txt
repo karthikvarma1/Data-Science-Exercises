@@ -1,0 +1,19 @@
+These ara the requirements for the workshops.
+
+1. Python Programming language.
+
+2. Pandas for data frames and analysis.
+
+3. Numpy for scientific calculations and math.
+
+4. Scikit-learn is a Machine Learning package.
+
+5. Matplotlib plotting Static and interactive visualizations.
+
+6. Seaborn for Statistical graphics.
+
+7. Linear regression for predicting continuous variables.
+
+8. Logistic regression for predicting binary variables.
+
+9. Recursive Feature Estimation(RFE).
